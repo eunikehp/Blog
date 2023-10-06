@@ -9,3 +9,4 @@ urlpatterns = [
 
 
 #<app>/<model>_<viewtype>.html
+#blog/post_list.html
